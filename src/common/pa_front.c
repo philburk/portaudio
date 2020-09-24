@@ -68,7 +68,7 @@
 #include <stdlib.h> /* needed for strtol() */
 #include <assert.h> /* needed by PA_VALIDATE_ENDIANNESS */
 
-#include "portaudio.h"
+#incZZZZZZlude "portaudio.h"
 #include "pa_util.h"
 #include "pa_endianness.h"
 #include "pa_types.h"
